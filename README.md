@@ -1,5 +1,4 @@
-# ner-entity-recognition-bilstm-crf
-End to end Named entity recognition (NER) pipeline using ML models for structured information exctraction from unstructure data
+# End to end Named entity recognition (NER) pipeline using ML models for structured information exctraction from unstructure data
 
 🧠 Project Overview
 This project focuses on building an end-to-end Named Entity Recognition (NER) system to extract structured entities (such as Person, Organization, Location, Time, etc.) from unstructured text data.
